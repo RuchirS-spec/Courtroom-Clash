@@ -1,0 +1,10 @@
+# Astra DB / DataStax credentials
+secure-connect-*.zip
+*.env
+
+# Python virtual environment and cache
+venv/
+__pycache__/
+
+# Langflow local database
+langflow.db

@@ -1,0 +1,4 @@
+# In requirements.txt
+langflow
+astrapy
+# Add other libraries like openai, langchain, etc.
